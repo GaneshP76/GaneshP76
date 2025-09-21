@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m Currently Exploring Building next-gen AI models with LLMs & DeepSeek, optimizing RAG, LoRA, & quantization for scalable deployment. Passionate about ML engineering, data-driven solutions, and full-stack AI applications.<br><br>👯 I’m looking to collaborate on ML & AI in automation, data analytics, & software engineering. Also for MERN Stack for AI-driven web applications<br><br>🤝 I’m looking for help with optimizing deep learning models for efficiency & interpretability along with Scalable data pipelines & high-performance AI systems<br><br>🌱 I’m currently learning:<br>ViTs & SSL for vision & self-supervised learning<br>Hybrid AI & neuroscience-inspired models<br>Federated NLP & privacy-first AI<br><br>💬 Ask me about ML engineering, data analytics, full-stack development, & scalable AI<br><br>⚡ Fun fact is me trying to build an autonomous racing bot in Need for Speed using deep learning! 🚗💨
+🔭 I’m currently exploring next-gen AI models with LLMs & DeepSeek, optimizing RAG, LoRA, and quantization for scalable deployment. Passionate about ML engineering, robotics, human–computer interaction (HCI), and full-stack AI applications.<br><br>
+👯 I’m looking to collaborate on ML & robotics projects, including automation, data analytics, AI-driven control systems, and MERN-stack development for intelligent web applications.<br><br>
+🤝 I’m looking for help with optimizing deep learning models for efficiency & interpretability, and building scalable data pipelines & high-performance AI systems for robotics and cyber-physical environments.<br><br>
+🌱 I’m currently learning:<br>
+Vision Transformers (ViTs) & self-supervised learning (SSL) for computer vision<br>
+Hybrid AI & neuroscience-inspired models<br>
+Federated NLP & privacy-first AI<br>
+ROS-based integration of ML models into robotic platforms<br><br>
+💬 Ask me about ML engineering, robotics, HCI, scalable AI systems, data analytics, and full-stack development.<br><br>
+⚡ Fun fact: I’m building an autonomous racing bot in Need for Speed using deep learning 🚗💨.<br>
 
 
 ## 🌐 Socials:
