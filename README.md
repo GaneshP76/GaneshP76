@@ -1,12 +1,14 @@
 # About:
 
-I work at the intersection of machine learning, robotics, and interactive systems, and I am currently refining my research direction in Human–Computer Interaction (HCI) and Human–Robot Interaction (HRI).<br>
+I work at the intersection of machine learning, robotics, and interactive systems. I am currently refining my research direction in Human–Computer Interaction (HCI) and Human–Robot Interaction (HRI).<br>
 
-I am interested in how embodied AI systems should assist and intervene without reducing human autonomy or disrupting social dynamics. My focus includes proactive agents, initiative timing, adaptive escalation, and grounding interaction design in measurable behavioral signals.<br>
+I am interested in how embodied AI systems should assist and intervene while preserving human autonomy and social balance. My focus includes proactive agents, initiative timing, adaptive escalation, and grounding interaction design in measurable behavioral signals.<br>
 
 Technically, I build ML-driven systems end to end, from model development and evaluation to deployment and robotic integration.<br>
 
-Core tools: Python, PyTorch, Scikit-learn, ROS, Unity, FastAPI, Docker, Git<br><br>
+Core tools:
+Python · PyTorch · Scikit-learn · ROS · Unity · FastAPI · Docker · Git<br><br>
+
 
 <!--🔭 I’m currently exploring next-gen AI models with LLMs & DeepSeek, optimizing RAG, LoRA, and quantization for scalable deployment. Passionate about ML engineering, robotics, human–computer interaction (HCI), and full-stack AI applications.<br><br>
 👯 I’m looking to collaborate on ML & robotics projects, including automation, data analytics, AI-driven control systems, and MERN-stack development for intelligent web applications.<br><br>
