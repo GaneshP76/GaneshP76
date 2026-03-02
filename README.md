@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About:
 
 I work at the intersection of machine learning, robotics, and interactive systems, and I am currently refining my research direction in Human–Computer Interaction (HCI) and Human–Robot Interaction (HRI).<br>
 
