@@ -1,6 +1,6 @@
 # About:
 
-I work at the intersection of machine learning, robotics, and interactive systems. I am currently refining my research direction in Human–Computer Interaction (HCI) and Human–Robot Interaction (HRI).<br>
+I work at the intersection of machine learning, robotics, and interactive systems. I am currently refining my research direction in Human-Computer Interaction (HCI) and Human-Robot Interaction (HRI).<br>
 
 I am interested in how embodied AI systems should assist and intervene while preserving human autonomy and social balance. My focus includes proactive agents, initiative timing, adaptive escalation, and grounding interaction design in measurable behavioral signals.<br>
 
